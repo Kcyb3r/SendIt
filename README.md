@@ -1,4 +1,3 @@
-# SendIt
 <div class="logo">
     <img src="sendit-logo.jpeg" alt="SendIt Logo" class="sendit-logo" />
 </div><br>
@@ -36,7 +35,7 @@ SendIt is a simple and efficient file transfer tool that allows users to send an
 1. **Launch the Application**:
    - Run the application by executing the following command in your terminal:
      ```bash
-     python sendit.py
+     python3 sendit.py
      ```
 
 2. **Generate Unique Connection Code**:
