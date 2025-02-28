@@ -4,7 +4,7 @@
 
 
 <div class="logo">
-    <img src="sendit-logo.png" alt="SendIt Logo" class="sendit-logo" />
+    <img src="sendit-logo.jpeg" alt="SendIt Logo" class="sendit-logo" />
 </div>
   .logo {
     display: flex;
