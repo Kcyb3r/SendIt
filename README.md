@@ -1,22 +1,7 @@
 # SendIt
-![image](https://github.com/user-attachments/assets/dccd6989-8df2-4f50-99fa-d40c68fc0d93)
-
-
-
 <div class="logo">
     <img src="sendit-logo.jpeg" alt="SendIt Logo" class="sendit-logo" />
-</div>
-  .logo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 20px; /* Adjust margin as needed */
-}
-
-.sendit-logo {
-    width: 150px; /* Adjust size as needed */
-    height: auto; /* Maintain aspect ratio */
-}
+</div><br>
 
 
 
